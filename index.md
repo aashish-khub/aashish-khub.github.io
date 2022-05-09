@@ -5,14 +5,14 @@ layout: default
 
 ## Welcome to my homepage! 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I'm a student of Physics and Computer Science at NYU, working in a Predictive Analytics Lab with a love for breaking down complex problems and a passion for working with data and thinking from first principles.
 
-## Header 2
+I'm currently employed as a Course Assistant (for Data Structures and Predictive Analytics classes), as well as a tutor (for Java Object-Oriented Programming and General Physics). Skilled in Python, Java, C, SQL, and the ability to learn new languages and understand new environments quickly and deeply.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+My other interests include playing the piano, reading, and going to the Metropolitan Opera. 
 
-### Header 3
+### You can find me at:
 
-Some text goes here!
+LinkedIn: [https://www.linkedin.com/in/aashish-k/](https://www.linkedin.com/in/aashish-k/)
+GitHub: [https://github.com/aashish-khub](https://github.com/aashish-khub)
+E-mail: *aashish k 29 [ at ] gmail [ dot ] com*
