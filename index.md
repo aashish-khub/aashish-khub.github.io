@@ -14,5 +14,9 @@ My other interests include playing the piano, reading, and classical music.
 ### You can find me at:
 
 LinkedIn: [https://www.linkedin.com/in/aashish-k/](https://www.linkedin.com/in/aashish-k/)
+
+
 GitHub: [https://github.com/aashish-khub](https://github.com/aashish-khub)
-E-mail: *aashish k 29 [ at ] gmail [ dot ] com*
+
+
+E-mail: *aashishk29 [ at ] gmail [ dot ] com*
