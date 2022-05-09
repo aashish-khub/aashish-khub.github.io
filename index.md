@@ -5,11 +5,11 @@ layout: default
 
 ## Welcome to my homepage! 
 
-I'm a student of Physics and Computer Science at NYU, working in a Predictive Analytics Lab with a love for breaking down complex problems and a passion for working with data and thinking from first principles.
+I'm a student of Physics and Computer Science at New York University, working in a predictive analytics lab with a love for breaking down complex problems, and a passion for working with data and thinking from first principles.
 
-I'm currently employed as a Course Assistant (for Data Structures and Predictive Analytics classes), as well as a tutor (for Java Object-Oriented Programming and General Physics). Skilled in Python, Java, C, SQL, and the ability to learn new languages and understand new environments quickly and deeply.
+I'm currently employed as a Course Assistant (for Data Structures and Predictive Analytics classes), as well as a tutor (for Java Object-Oriented Programming and General Physics) at NYU. I'm skilled in Python, Java, C, SQL, and the ability to learn new languages and understand new environments quickly and deeply.
 
-My other interests include playing the piano, reading, and going to the Metropolitan Opera. 
+My other interests include playing the piano, reading, and classical music. 
 
 ### You can find me at:
 
