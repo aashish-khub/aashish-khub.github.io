@@ -9,7 +9,7 @@ I studied Physics and Computer Science at New York University, where I worked in
 
 At New York University, I worked as a Course Assistant (for Data Structures and Predictive Analytics classes), as well as a tutor (for Java Object-Oriented Programming and General Physics). I'm skilled in Python, Java, C, and at learning new languages and understanding new environments quickly and deeply. 
 
-I will soon be starting as an Engineering Analyst at Goldman Sachs, where my responsibilities on a Strateges team will focus on creating and maintaining financial software products in Goldman Sachs' Asset Management Division in the New York office.
+I will soon be starting as an Engineering Analyst at Goldman Sachs, where my responsibilities on a Strategies team will focus on creating and maintaining financial software products in Goldman Sachs' Asset Management Division in the New York office.
 
 My other interests include playing the piano, reading, and classical music. 
 
