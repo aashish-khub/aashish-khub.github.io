@@ -19,7 +19,7 @@ LinkedIn: [https://www.linkedin.com/in/aashish-k/](https://www.linkedin.com/in/a
 
 GitHub: [https://github.com/aashish-khub](https://github.com/aashish-khub)
 
-E-mail: *aashishk29 [ at ] gmail [ dot ] com*
+E-mail: *hello [ at ] aashish [ dot ] tech*
 
 ### Miscellaneous quick links:
 
