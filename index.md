@@ -9,7 +9,7 @@ I studied Physics and Computer Science at New York University, where I worked in
 
 At New York University, I worked as a Course Assistant (for General Physics and Data Structures classes), as well as a tutor (for Java Object-Oriented Programming and General Physics). I'm skilled in Python, Java, C, and at learning new languages and understanding new environments quickly and deeply. 
 
-I work as an Engineering Analyst (Strategist) at Goldman Sachs Asset Management, where my responsibilities on the Fundamental Equities Strategies team focus on creating and maintaining financial software products.
+I work as a Quantitative Developer (Strategist) at Goldman Sachs Asset Management, where my responsibilities on the Fundamental Equities Strategies team involve creating and maintaining financial tools that help drive effective investments and enhance risk management and analytics.
 
 My other interests include playing the piano, reading, and classical music. 
 
