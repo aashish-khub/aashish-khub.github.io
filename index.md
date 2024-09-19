@@ -5,7 +5,7 @@ layout: default
 
 ## Welcome to my homepage! 
 
-I'm a Computer Science graduate student at Cornell Tech. 
+I'm a Computer Science graduate student at **Cornell Tech**. 
 
 From 2022 to 2024, I worked as a quantitative software developer at **Goldman Sachs**, where my responsibilities on the Fundamental Equities Strategies team within the Asset Management division included creating and maintaining robust financial tools using well-engineered data pipelines in order to help drive effective investments and enhance risk management and analytics.
 
