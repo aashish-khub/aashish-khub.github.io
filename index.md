@@ -9,7 +9,7 @@ I'm a Computer Science graduate student at **Cornell Tech**, where I focus on ma
 
 From 2022 to 2024, I worked as a quantitative software developer at **Goldman Sachs**, on the Fundamental Equities Strategies team within Goldman Sachs Asset Management (GSAM). I built financial tools and engineered data pipelines to drive investment decisions and risk management.
 
-From 2018 to 2022, I studied Physics and Computer Science at New York University, where I applied machine learning to real-world problems in epidemiology, occasionally working with terabyte-scale datasets. I also served as a course assistant and department-appointed tutor in both Physics and Computer Science.
+From 2018 to 2022, I studied Physics and Computer Science at **New York University**, where I applied machine learning to real-world problems in epidemiology, occasionally working with terabyte-scale datasets. I also served as a course assistant and department-appointed tutor in both Physics and Computer Science.
 
 I'm proficient in Python, Java, and C, and I adapt quickly to new tools and frameworks. Outside of work, I enjoy hiking and roller skating. 
 
