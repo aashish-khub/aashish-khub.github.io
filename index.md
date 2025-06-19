@@ -15,20 +15,21 @@ I'm proficient in Python, Java, and C, and I adapt quickly to new tools and fram
 
 ### More about me:
 
-[My LinkedIn](https://www.linkedin.com/in/aashish-k/)
-
-[My GitHub](https://github.com/aashish-khub)
-
-[My Google Scholar](https://scholar.google.com/citations?hl=en&user=ZwIG3Z0AAAAJ&view_op=list_works&sortby=pubdate)
-
-[My Résumé](./resume)
+- [LinkedIn](https://www.linkedin.com/in/aashish-k/)
+- [GitHub](https://github.com/aashish-khub)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZwIG3Z0AAAAJ&view_op=list_works&sortby=pubdate)
+- [My Résumé](./resume)
 
 ### Contact me:
 
 If you have any questions or would like to connect, feel free to reach out!
 
-E-mail: *hello [ at ] aashish [ dot ] tech*
+- E-mail: *hello [ at ] aashish [ dot ] tech*
 
-### Miscellaneous quick links:
+### Projects and Links:
+- **N²: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion**. 
+    - [Package (PyPI: `nsquared`)](https://pypi.org/project/nsquared/)
+    - [Paper arXiv:2506.04166](https://arxiv.org/abs/2506.04166) (Accepted to CODEML@ICML 2025).
+    - [Repository (GitHub)](https://github.com/aashish-khub/NearestNeighbors)
+- My [Fall 2021 Computer Graphics Portfolio](https://aashish-khub.github.io/graphics/graphics_home.html)
 
-My [Fall 2021 Computer Graphics Portfolio](https://aashish-khub.github.io/graphics/graphics_home.html)
