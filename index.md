@@ -19,12 +19,7 @@ I'm proficient in Python, Java, and C, and I adapt quickly to new tools and fram
 - [GitHub](https://github.com/aashish-khub)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZwIG3Z0AAAAJ&view_op=list_works&sortby=pubdate)
 - [My Résumé](./resume)
-
-### Contact me:
-
-If you have any questions or would like to connect, feel free to reach out!
-
-- E-mail: *hello [ at ] aashish [ dot ] tech*
+- You can reach me via email at *hello [ at ] aashish [ dot ] tech*
 
 ### Projects and Links:
 - **N²: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion**. 
