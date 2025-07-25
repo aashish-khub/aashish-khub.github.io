@@ -24,7 +24,8 @@ I'm proficient in Python, Java, and C, and I adapt quickly to new tools and fram
 ### Projects and Links:
 - **N²: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion**. 
     - [Package (PyPI: `nsquared`)](https://pypi.org/project/nsquared/)
-    - [Paper arXiv:2506.04166](https://arxiv.org/abs/2506.04166) (Accepted to CODEML@ICML 2025).
+    - [Paper arXiv:2506.04166](https://arxiv.org/abs/2506.04166).
     - [Repository (GitHub)](https://github.com/aashish-khub/NearestNeighbors)
+    - [Poster (Presented at CODEML@ICML 2025)](./assets/pdf/N2_poster.pdf) 
 - My [Fall 2021 Computer Graphics Portfolio](https://aashish-khub.github.io/graphics/graphics_home.html)
 
