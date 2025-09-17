@@ -15,9 +15,9 @@ I'm proficient in Python, Java, and C, and I adapt quickly to new tools and fram
 
 ### More about me:
 
-- [LinkedIn](https://www.linkedin.com/in/aashish-k/)
-- [GitHub](https://github.com/aashish-khub)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=ZwIG3Z0AAAAJ&view_op=list_works&sortby=pubdate)
+- [LinkedIn](./linkedin)
+- [GitHub](./github)
+- [Google Scholar](./scholar)
 - [My Résumé](./resume)
 - You can reach me via email at *hello [ at ] aashish [ dot ] tech*
 
