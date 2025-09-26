@@ -5,7 +5,10 @@ layout: default
 
 ## Welcome to my homepage! 
 
-I'm a graduate student and research assistant at **Cornell Tech**, where I focus on machine learning and methods for causal inference. My recent work includes building a Python package that implements performant matrix completion using novel nearest-neighbor estimators that adapt to noise and bias across settings. It's been tested on standard benchmarks and, after having been presented at CODEML@ICML 2025, has been released for use by researchers and industry practitioners. 
+I want to develop computational and human-centric approaches that advance algorithmic fairness in machine
+learning systems, guided by policy and regulatory considerations. 
+
+I am currently a graduate student and research assistant at **Cornell Tech**, where I focused on machine learning and methods for causal inference. My recent work includes building a Python package that implements performant matrix completion using novel nearest-neighbor estimators that adapt to noise and bias across settings. It's been tested on standard benchmarks and, after having been presented at CODEML@ICML 2025, has been released for use by researchers and industry practitioners.
 
 From 2022 to 2024, I worked as a quantitative software developer at **Goldman Sachs**, on the Fundamental Equities Strategies team within Goldman Sachs Asset Management (GSAM). I built financial tools and engineered data pipelines to drive investment decisions and risk management.
 
@@ -19,6 +22,7 @@ I'm proficient in Python, Java, and C, and I adapt quickly to new tools and fram
 - [GitHub](./github)
 - [Google Scholar](./scholar)
 - [My Résumé](./resume)
+<!-- - [My Curriculum Vitae](./cv) -->
 - You can reach me via email at *hello [ at ] aashish [ dot ] tech*
 
 ### Projects and Links:
