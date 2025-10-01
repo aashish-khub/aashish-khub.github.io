@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-# Hi! I'm Aashish Khubchandani! 
-
-## Welcome to my homepage! 
 
 I want to develop computational and human-centric approaches that advance algorithmic fairness in machine
 learning systems, guided by policy and regulatory considerations. 
