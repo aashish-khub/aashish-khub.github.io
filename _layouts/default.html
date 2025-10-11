@@ -33,6 +33,9 @@
           <img src="{{site.logo | relative_url}}" alt="My Photo" />
         {% endif %}
         <p> <br> {{ site.description | default: site.github.project_tagline }}</p>
+
+        {% include sidebar-about.html %}
+        
       </header>
       <section>
       {{ content }}

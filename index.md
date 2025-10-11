@@ -13,6 +13,7 @@ From 2018 to 2022, I studied Physics and Computer Science at **New York Universi
 
 I'm proficient in Python, Java, and C, and I adapt quickly to new tools and frameworks. Outside of work and school, I enjoy hiking and roller skating. 
 
+<!-- 
 ### More about me:
 
 - [LinkedIn](./linkedin)
@@ -21,6 +22,7 @@ I'm proficient in Python, Java, and C, and I adapt quickly to new tools and fram
 - [My Résumé](./resume)
 <!-- - [My Curriculum Vitae](./cv) -->
 - You can reach me via email at *hello [ at ] aashish [ dot ] tech*
+-->
 
 ### Projects and Links:
 - **N²: A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion**. 
